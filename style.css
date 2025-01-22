@@ -31,7 +31,7 @@
     }
     .card{
         border: none !important;
-        box-shadow: 5px 5px 10px lightgray;
+        box-shadow: 5px 5px 20px rgb(234, 234, 234);
         padding: 40px;
         background-color: white;
         border-radius: 10px !important ;
