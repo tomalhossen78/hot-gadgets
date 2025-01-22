@@ -1,0 +1,104 @@
+.container{
+    /* margin-top: 20px; */
+    margin-bottom: 20px;
+}
+
+.container-fluid img{
+    width: 120px;
+}
+.slide{
+    margin-top: 10px;
+}
+.col-5 h3{
+    margin-bottom: 20px;
+}
+.buy-now-button{
+    margin-top: 20px;
+    padding: 10px 20px !important;
+}
+.bg-slide{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    }
+    .card-title{
+        text-align: center;
+    }
+    .card-body{
+        text-align: center;
+        
+    }
+    .card{
+        border: none !important;
+        box-shadow: 5px 5px 10px lightgray;
+        padding: 40px;
+        background-color: white;
+        border-radius: 10px !important ;
+       
+    }
+    .products-title{
+        margin-bottom: 20px;
+    }
+    .smartphone{
+        margin-bottom: 100px;
+    }
+    .bg-slide{
+        margin-bottom: 100px;
+    }
+    .laptop{
+        margin-bottom: 100px;
+    }
+    .see-all-title{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-bottom: 40px;
+        }
+        .see-all{
+            color: orange;
+        }
+        .box-item-1{
+            box-shadow: 5px 5px 20px rgb(234, 234, 234);
+            padding: 50px 30px ;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 30px;
+            border-radius: 0px 0px 0px 20px;
+        }
+        .box-item-2{
+            box-shadow: 5px 5px 20px rgb(234, 234, 234);
+            padding: 50px 30px ;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 30px;
+            border-radius: 10px 0px 20px 0px;
+        }
+        .box-item-3{
+            box-shadow: 5px 5px 20px rgb(234, 234, 234);
+            padding: 50px 30px ;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 30px;
+            border-radius: 10px 0px 20px 0px;
+        }
+        .box-item-1 img{
+            width: 100px;
+            margin-bottom: 20px;
+        }
+        .box-item-2 img{
+            width: 100px;
+            margin-bottom: 20px;
+        }
+        .box-item-3 img{
+            width: 120px;
+            margin-bottom: 5px;
+        }
+        .cat-3 img{
+            width: 100%;
+        }
+
+        
